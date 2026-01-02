@@ -1,4 +1,4 @@
 # new project 
 
 This project was created from local System.
-Created by Shradha Khapra.
+Created by Shradha Khapra
